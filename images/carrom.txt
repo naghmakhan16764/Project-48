@@ -1,0 +1,7 @@
+1) 1 striker and 5 black counters nd 5 white counters and 1 queen counter , a board and four pockets 
+2) If striker enters the pocket on counter wouod be deducted from the player , 
+next rule is if you score a queen you have to also score a white counter to earn the queen and if someone scores any counters like white black and queen thay will get one more chance to strike .
+3)Score if black counter is in the pocket score=10 if white counter is in the pocket the score=20 if queen is in then score=50 + the score if he score the white counter = 50+20= 70 total 
+4) if player 1 has a greater score than computer so player 1 would win
+5)immediate feedback score. 
+
